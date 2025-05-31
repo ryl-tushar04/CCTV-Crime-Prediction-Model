@@ -10,11 +10,12 @@ A deep learning-based solution that leverages Long Short-Term Memory (LSTM) netw
 2. [Features](#features)  
 3. [Setup and Installation](#setup-and-installation)  
 4. [Usage](#usage)  
-5. [Project Workflow](#project-workflow)  
-6. [Results](#results)  
-7. [Future Enhancements](#future-enhancements)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
+5. [Dataset](#dataset)  
+6. [Project Workflow](#project-workflow)  
+7. [Results](#results)  
+8. [Future Enhancements](#future-enhancements)  
+9. [Contributing](#contributing)  
+10. [License](#license)  
 
 ---
 
@@ -85,6 +86,14 @@ This project focuses on enhancing public safety by predicting criminal activity 
 
 4. **Visualize results**  
    `visualize_results.py` shows prediction scores and flag events on a timeline.
+
+---
+
+## **Dataset**
+
+The dataset used for training consists of labeled surveillance footage containing both normal and criminal activity samples. You can download the dataset from the following Google Drive folder:
+
+🔗 **[Download Dataset](https://drive.google.com/drive/folders/1gRDI_5anXdtJu_rH6r0tpbl_lW5MJX7a?usp=sharing)**
 
 ---
 
