@@ -52,7 +52,7 @@ This project focuses on enhancing public safety by predicting criminal activity 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cctv-crime-prediction.git
+    git clone https://github.com/ryl-tushar04/cctv-crime-prediction.git
     cd cctv-crime-prediction
     ```
 
